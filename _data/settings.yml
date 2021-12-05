@@ -50,9 +50,9 @@ about: >
 
 projects:
 - {name: 'Ball Boys', folder: 'ballboys', file: 'projects/ballboys.html'}
+- {name: 'Voxel Vanquish', folder: 'voxelvanquish', file: 'projects/voxelvanquish.html'}
 - {name: 'Tetris 3D', folder: 'tetris3D', file: 'projects/tetris3D.html'}
 - {name: 'Cloud Jump', folder: 'cloudjump', file: 'projects/cloudjump.html'}
-- {name: 'Voxel Vanquish', folder: 'voxelvanquish', file: 'projects/voxelvanquish.html'}
 
 #-------------------------------
 # Other Sections

@@ -4,7 +4,7 @@
 menu:
 - {name: 'Games', url: ''}
 #- {name: 'Blog', url: 'pages/blog.html'}
-- {name: 'Resume', url: 'resume.pdf'}
+#- {name: 'Resume', url: 'resume.pdf'}
 - {name: 'About', url: 'pages/about.html'}
 #- {name: 'Contact', url: 'pages/contact.html'}
 
